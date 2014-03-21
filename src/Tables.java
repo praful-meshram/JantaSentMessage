@@ -15,4 +15,7 @@ public class Tables {
 System.out.println("hi ...  helo  ");
 	}
 
+	public void  name() {
+		System.out.println("void d   ");
+	}
 }
