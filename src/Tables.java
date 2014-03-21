@@ -12,7 +12,7 @@ public class Tables {
 			System.out.println();
 			i++;
 		}while(i<=10);
-System.out.println("jghjghjnskjbnm ,");
+System.out.println("hi ...  helo  ");
 	}
 
 }
